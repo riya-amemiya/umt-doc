@@ -8,7 +8,11 @@ import partytown from "@astrojs/partytown";
 
 // https://astro.build/config
 export default defineConfig({
+  compressHTML: true,
   integrations: [mdx(), tailwind(), sitemap(), partytown()],
   output: "server",
   adapter: vercel(),
+  security: {
+    checkOrigin: true,
+  },
 });
