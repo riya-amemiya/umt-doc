@@ -4,7 +4,8 @@
 		"ignore": [
 			"node_modules",
 			"public",
-			"dist"
+			"dist",
+			".vercel"
 		]
 	},
 	"formatter": {
