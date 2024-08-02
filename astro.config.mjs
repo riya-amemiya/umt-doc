@@ -11,7 +11,12 @@ export default defineConfig({
   compressHTML: true,
   integrations: [mdx(), tailwind(), sitemap(), partytown()],
   output: "server",
-  adapter: vercel({ isr: true }),
+  adapter: vercel({
+    isr: true,
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
   security: {
     checkOrigin: true,
   },
