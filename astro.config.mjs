@@ -7,10 +7,11 @@ import partytown from "@astrojs/partytown";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://umt-main.oshaburikitchin.com/",
   compressHTML: true,
   integrations: [mdx(), tailwind(), sitemap(), partytown()],
   output: "server",
-  adapter: vercel(),
+  adapter: vercel({ isr: true }),
   security: {
     checkOrigin: true,
   },
