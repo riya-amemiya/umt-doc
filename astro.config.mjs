@@ -9,15 +9,20 @@ import partytown from "@astrojs/partytown";
 export default defineConfig({
   site: "https://umt-main.oshaburikitchin.com/",
   compressHTML: true,
+  trailingSlash: "never",
   integrations: [mdx(), tailwind(), sitemap(), partytown()],
   output: "server",
   adapter: vercel({
     isr: true,
+    imageService: true,
     webAnalytics: {
       enabled: true,
     },
   }),
   security: {
     checkOrigin: true,
+  },
+  prefetch: {
+    prefetchAll: true,
   },
 });
