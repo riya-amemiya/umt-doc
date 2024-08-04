@@ -29,7 +29,8 @@
   },
   "devDependencies": {
     "@biomejs/biome": "1.8.3",
-    "turbo": "^2.0.11"
+    "turbo": "^2.0.11",
+    "umt_plugin_node": "^1.0.1"
   },
   "packageManager": "bun@1.1.21"
 }
