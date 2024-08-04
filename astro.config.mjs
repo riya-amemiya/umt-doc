@@ -2,7 +2,6 @@ import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import vercel from "@astrojs/vercel/serverless";
 import tailwind from "@astrojs/tailwind";
-import sitemap from "@astrojs/sitemap";
 import partytown from "@astrojs/partytown";
 import starlight from "@astrojs/starlight";
 
@@ -17,7 +16,6 @@ export default defineConfig({
     }),
     mdx(),
     tailwind(),
-    sitemap(),
     partytown(),
   ],
   output: "server",
