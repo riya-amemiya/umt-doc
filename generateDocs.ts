@@ -16,13 +16,16 @@ async function readJsonFilesRecursively(directory: string): Promise<void> {
     } else if (path.extname(file).toLowerCase() === ".json") {
       // JSONファイルの場合、読み込んで処理
       try {
+        const version = fullPath.split("/")[2];
         const jsonContent = read(fullPath);
         const jsonData = JSON.parse(jsonContent) as OutputType;
+        console.log(`Version: ${version}`);
         console.log(`File: ${fullPath}`);
         console.log(
           "Content:",
           jsonData.children.map((child) => child.name),
         );
+
         // ここでjsonDataを使って必要な処理を行う
       } catch (error) {
         console.error(`Error reading file ${fullPath}:`, error);
