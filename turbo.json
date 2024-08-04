@@ -3,7 +3,7 @@
     "tasks": {
         "build": {
             "outputs": [
-                ".vercel/output"
+                ".vercel/output/**"
             ],
             "inputs": [
                 "./astro.config.mjs",

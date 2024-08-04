@@ -6,6 +6,7 @@ import partytown from "@astrojs/partytown";
 import starlight from "@astrojs/starlight";
 import remarkBreaks from "remark-breaks";
 import remarkMath from "remark-math";
+import starlightBlog from "starlight-blog";
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,6 +18,7 @@ export default defineConfig({
   },
   integrations: [
     starlight({
+      plugins: [starlightBlog()],
       title: "UMT Documentation",
       social: {
         github: "https://github.com/riya-amemiya/umt-doc",
