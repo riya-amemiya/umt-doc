@@ -46,7 +46,7 @@ ${summary || "No summary available."}
             "docs",
             version,
             category,
-            `${name}.md`,
+            `${name}.mdx`,
           );
 
           fs.mkdirSync(path.dirname(markdownPath), { recursive: true });
