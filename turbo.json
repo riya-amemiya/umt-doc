@@ -6,7 +6,9 @@
                 ".vercel/output"
             ],
             "inputs": [
-                "./src/**",
+                "./astro.config.mjs",
+                "./generateDocs.ts",
+                "./src/**/*.ts",
                 "./public/**",
                 "./package.json",
                 "./tailwind.config.mjs",
