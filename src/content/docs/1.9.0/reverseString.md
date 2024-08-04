@@ -1,7 +1,0 @@
----
-title: reverseString
----
-
-## About
-
-reverseString

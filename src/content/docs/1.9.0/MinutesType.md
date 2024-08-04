@@ -1,7 +1,0 @@
----
-title: MinutesType
----
-
-## About
-
-MinutesType

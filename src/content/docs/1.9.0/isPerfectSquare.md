@@ -1,7 +1,0 @@
----
-title: isPerfectSquare
----
-
-## About
-
-isPerfectSquare

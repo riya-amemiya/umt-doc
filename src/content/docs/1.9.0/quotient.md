@@ -1,7 +1,0 @@
----
-title: quotient
----
-
-## About
-
-quotient

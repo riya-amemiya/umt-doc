@@ -1,7 +1,0 @@
----
-title: OneDayMs
----
-
-## About
-
-OneDayMs

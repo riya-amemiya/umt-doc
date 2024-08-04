@@ -1,7 +1,0 @@
----
-title: double
----
-
-## About
-
-double

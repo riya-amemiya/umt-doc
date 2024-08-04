@@ -1,7 +1,0 @@
----
-title: ConvertMonTypeNoZero
----
-
-## About
-
-ConvertMonTypeNoZero

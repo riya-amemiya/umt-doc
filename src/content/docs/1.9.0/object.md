@@ -1,7 +1,0 @@
----
-title: object
----
-
-## About
-
-object

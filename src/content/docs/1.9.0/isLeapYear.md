@@ -1,7 +1,0 @@
----
-title: isLeapYear
----
-
-## About
-
-isLeapYear

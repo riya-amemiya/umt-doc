@@ -1,7 +1,0 @@
----
-title: max
----
-
-## About
-
-max

@@ -1,7 +1,0 @@
----
-title: randomStringInitialization
----
-
-## About
-
-randomStringInitialization

@@ -1,7 +1,0 @@
----
-title: prime
----
-
-## About
-
-prime

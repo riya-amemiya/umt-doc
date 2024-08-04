@@ -1,7 +1,0 @@
----
-title: StringToUnion
----
-
-## About
-
-StringToUnion

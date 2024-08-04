@@ -1,7 +1,0 @@
----
-title: division
----
-
-## About
-
-division

@@ -1,7 +1,0 @@
----
-title: NOT
----
-
-## About
-
-NOT

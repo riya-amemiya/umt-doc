@@ -1,7 +1,0 @@
----
-title: lcm
----
-
-## About
-
-lcm

@@ -1,7 +1,0 @@
----
-title: repeatedTrial
----
-
-## About
-
-repeatedTrial

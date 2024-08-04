@@ -1,7 +1,0 @@
----
-title: TripleDigitInt
----
-
-## About
-
-TripleDigitInt

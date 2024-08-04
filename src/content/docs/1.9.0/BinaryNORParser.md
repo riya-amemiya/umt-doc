@@ -1,7 +1,0 @@
----
-title: BinaryNORParser
----
-
-## About
-
-BinaryNORParser

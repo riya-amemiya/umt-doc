@@ -1,7 +1,0 @@
----
-title: now
----
-
-## About
-
-now

@@ -1,7 +1,0 @@
----
-title: ZeroAorB
----
-
-## About
-
-ZeroAorB

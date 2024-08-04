@@ -1,7 +1,0 @@
----
-title: OneSecondMs
----
-
-## About
-
-OneSecondMs

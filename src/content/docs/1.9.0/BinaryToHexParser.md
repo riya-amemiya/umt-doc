@@ -1,7 +1,0 @@
----
-title: BinaryToHexParser
----
-
-## About
-
-BinaryToHexParser

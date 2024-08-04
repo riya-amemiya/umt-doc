@@ -1,7 +1,0 @@
----
-title: isBrowser
----
-
-## About
-
-isBrowser

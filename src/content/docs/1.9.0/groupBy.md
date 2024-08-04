@@ -1,7 +1,0 @@
----
-title: groupBy
----
-
-## About
-
-groupBy

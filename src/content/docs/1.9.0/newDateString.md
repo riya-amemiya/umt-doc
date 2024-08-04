@@ -1,7 +1,0 @@
----
-title: newDateString
----
-
-## About
-
-newDateString

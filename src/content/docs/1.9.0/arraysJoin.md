@@ -1,7 +1,0 @@
----
-title: arraysJoin
----
-
-## About
-
-arraysJoin

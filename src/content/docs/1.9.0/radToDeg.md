@@ -1,7 +1,0 @@
----
-title: radToDeg
----
-
-## About
-
-radToDeg

@@ -1,7 +1,0 @@
----
-title: Int
----
-
-## About
-
-Int

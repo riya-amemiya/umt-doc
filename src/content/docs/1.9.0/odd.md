@@ -1,7 +1,0 @@
----
-title: odd
----
-
-## About
-
-odd

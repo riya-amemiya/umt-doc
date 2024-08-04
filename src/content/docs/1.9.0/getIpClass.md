@@ -1,7 +1,0 @@
----
-title: getIpClass
----
-
-## About
-
-getIpClass

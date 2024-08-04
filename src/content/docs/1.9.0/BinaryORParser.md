@@ -1,7 +1,0 @@
----
-title: BinaryORParser
----
-
-## About
-
-BinaryORParser

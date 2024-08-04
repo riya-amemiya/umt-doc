@@ -1,7 +1,0 @@
----
-title: insertionSort
----
-
-## About
-
-insertionSort

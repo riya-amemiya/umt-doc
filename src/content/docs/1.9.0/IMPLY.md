@@ -1,7 +1,0 @@
----
-title: IMPLY
----
-
-## About
-
-IMPLY

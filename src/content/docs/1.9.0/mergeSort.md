@@ -1,7 +1,0 @@
----
-title: mergeSort
----
-
-## About
-
-mergeSort

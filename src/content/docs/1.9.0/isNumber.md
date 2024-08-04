@@ -1,7 +1,0 @@
----
-title: isNumber
----
-
-## About
-
-isNumber

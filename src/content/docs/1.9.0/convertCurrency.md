@@ -1,7 +1,0 @@
----
-title: convertCurrency
----
-
-## About
-
-convertCurrency

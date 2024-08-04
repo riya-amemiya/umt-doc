@@ -1,7 +1,0 @@
----
-title: BGreaterThanA
----
-
-## About
-
-BGreaterThanA

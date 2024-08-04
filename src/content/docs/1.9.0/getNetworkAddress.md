@@ -1,7 +1,0 @@
----
-title: getNetworkAddress
----
-
-## About
-
-getNetworkAddress

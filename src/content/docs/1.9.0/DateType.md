@@ -1,7 +1,0 @@
----
-title: DateType
----
-
-## About
-
-DateType

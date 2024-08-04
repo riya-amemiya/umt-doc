@@ -1,7 +1,0 @@
----
-title: deviationValueSimple
----
-
-## About
-
-deviationValueSimple

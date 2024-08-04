@@ -1,7 +1,0 @@
----
-title: isObject
----
-
-## About
-
-isObject

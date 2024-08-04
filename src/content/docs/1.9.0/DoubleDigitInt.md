@@ -1,7 +1,0 @@
----
-title: DoubleDigitInt
----
-
-## About
-
-DoubleDigitInt

@@ -1,7 +1,0 @@
----
-title: Multiply
----
-
-## About
-
-Multiply

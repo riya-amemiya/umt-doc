@@ -1,7 +1,0 @@
----
-title: MonTypeInt
----
-
-## About
-
-MonTypeInt

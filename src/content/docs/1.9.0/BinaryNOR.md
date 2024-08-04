@@ -1,7 +1,0 @@
----
-title: BinaryNOR
----
-
-## About
-
-BinaryNOR

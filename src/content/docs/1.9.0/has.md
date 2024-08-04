@@ -1,7 +1,0 @@
----
-title: has
----
-
-## About
-
-has

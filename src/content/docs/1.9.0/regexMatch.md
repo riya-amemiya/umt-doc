@@ -1,7 +1,0 @@
----
-title: regexMatch
----
-
-## About
-
-regexMatch

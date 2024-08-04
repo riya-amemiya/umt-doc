@@ -1,7 +1,0 @@
----
-title: isArray
----
-
-## About
-
-isArray

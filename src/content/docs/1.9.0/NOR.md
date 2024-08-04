@@ -1,7 +1,0 @@
----
-title: NOR
----
-
-## About
-
-NOR

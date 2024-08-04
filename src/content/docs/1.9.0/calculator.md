@@ -1,7 +1,0 @@
----
-title: calculator
----
-
-## About
-
-calculator

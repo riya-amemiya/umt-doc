@@ -1,7 +1,0 @@
----
-title: standardDeviation
----
-
-## About
-
-standardDeviation

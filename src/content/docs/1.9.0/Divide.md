@@ -1,7 +1,0 @@
----
-title: Divide
----
-
-## About
-
-Divide

@@ -1,7 +1,0 @@
----
-title: maxValue
----
-
-## About
-
-maxValue

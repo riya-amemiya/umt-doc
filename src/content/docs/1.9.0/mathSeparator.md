@@ -1,7 +1,0 @@
----
-title: mathSeparator
----
-
-## About
-
-mathSeparator

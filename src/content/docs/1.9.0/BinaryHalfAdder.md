@@ -1,7 +1,0 @@
----
-title: BinaryHalfAdder
----
-
-## About
-
-BinaryHalfAdder

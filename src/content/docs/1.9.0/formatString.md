@@ -1,7 +1,0 @@
----
-title: formatString
----
-
-## About
-
-formatString

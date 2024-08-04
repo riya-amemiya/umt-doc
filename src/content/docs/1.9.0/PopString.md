@@ -1,7 +1,0 @@
----
-title: PopString
----
-
-## About
-
-PopString

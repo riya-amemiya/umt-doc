@@ -1,7 +1,0 @@
----
-title: MillisecondsTypeInt
----
-
-## About
-
-MillisecondsTypeInt

@@ -1,7 +1,0 @@
----
-title: IsAny
----
-
-## About
-
-IsAny

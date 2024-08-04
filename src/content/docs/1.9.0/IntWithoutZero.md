@@ -1,7 +1,0 @@
----
-title: IntWithoutZero
----
-
-## About
-
-IntWithoutZero

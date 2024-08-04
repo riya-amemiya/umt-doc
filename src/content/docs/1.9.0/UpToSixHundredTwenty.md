@@ -1,7 +1,0 @@
----
-title: UpToSixHundredTwenty
----
-
-## About
-
-UpToSixHundredTwenty

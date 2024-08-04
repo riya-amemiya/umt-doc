@@ -1,7 +1,0 @@
----
-title: createPipeline
----
-
-## About
-
-createPipeline

@@ -1,7 +1,0 @@
----
-title: Result
----
-
-## About
-
-Result

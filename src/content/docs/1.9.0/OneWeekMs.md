@@ -1,7 +1,0 @@
----
-title: OneWeekMs
----
-
-## About
-
-OneWeekMs

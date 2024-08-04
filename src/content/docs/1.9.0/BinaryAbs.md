@@ -1,7 +1,0 @@
----
-title: BinaryAbs
----
-
-## About
-
-BinaryAbs

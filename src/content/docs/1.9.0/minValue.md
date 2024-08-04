@@ -1,7 +1,0 @@
----
-title: minValue
----
-
-## About
-
-minValue

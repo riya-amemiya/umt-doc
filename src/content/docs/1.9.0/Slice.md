@@ -1,7 +1,0 @@
----
-title: Slice
----
-
-## About
-
-Slice

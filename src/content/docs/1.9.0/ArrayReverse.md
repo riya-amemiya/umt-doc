@@ -1,7 +1,0 @@
----
-title: ArrayReverse
----
-
-## About
-
-ArrayReverse

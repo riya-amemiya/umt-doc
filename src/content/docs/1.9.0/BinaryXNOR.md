@@ -1,7 +1,0 @@
----
-title: BinaryXNOR
----
-
-## About
-
-BinaryXNOR

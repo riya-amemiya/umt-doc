@@ -1,7 +1,0 @@
----
-title: calculatorCore
----
-
-## About
-
-calculatorCore

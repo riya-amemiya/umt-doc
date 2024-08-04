@@ -1,7 +1,0 @@
----
-title: median
----
-
-## About
-
-median

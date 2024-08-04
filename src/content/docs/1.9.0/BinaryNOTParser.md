@@ -1,7 +1,0 @@
----
-title: BinaryNOTParser
----
-
-## About
-
-BinaryNOTParser

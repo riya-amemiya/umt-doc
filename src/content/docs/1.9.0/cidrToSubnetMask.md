@@ -1,7 +1,0 @@
----
-title: cidrToSubnetMask
----
-
-## About
-
-cidrToSubnetMask

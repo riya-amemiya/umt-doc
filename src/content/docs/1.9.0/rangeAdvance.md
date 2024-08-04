@@ -1,7 +1,0 @@
----
-title: rangeAdvance
----
-
-## About
-
-rangeAdvance

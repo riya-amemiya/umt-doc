@@ -1,7 +1,0 @@
----
-title: BinaryAddParser
----
-
-## About
-
-BinaryAddParser

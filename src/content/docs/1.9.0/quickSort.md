@@ -1,7 +1,0 @@
----
-title: quickSort
----
-
-## About
-
-quickSort

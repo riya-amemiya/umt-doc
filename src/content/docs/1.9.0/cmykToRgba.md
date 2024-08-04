@@ -1,7 +1,0 @@
----
-title: cmykToRgba
----
-
-## About
-
-cmykToRgba

@@ -1,7 +1,0 @@
----
-title: Pop
----
-
-## About
-
-Pop

@@ -1,7 +1,0 @@
----
-title: HoursTypeInt
----
-
-## About
-
-HoursTypeInt

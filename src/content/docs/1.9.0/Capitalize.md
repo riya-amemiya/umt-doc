@@ -1,7 +1,0 @@
----
-title: Capitalize
----
-
-## About
-
-Capitalize

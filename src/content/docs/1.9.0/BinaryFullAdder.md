@@ -1,7 +1,0 @@
----
-title: BinaryFullAdder
----
-
-## About
-
-BinaryFullAdder

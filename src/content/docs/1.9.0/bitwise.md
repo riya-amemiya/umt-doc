@@ -1,7 +1,0 @@
----
-title: bitwise
----
-
-## About
-
-bitwise

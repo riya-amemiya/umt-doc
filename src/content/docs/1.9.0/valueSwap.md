@@ -1,7 +1,0 @@
----
-title: valueSwap
----
-
-## About
-
-valueSwap

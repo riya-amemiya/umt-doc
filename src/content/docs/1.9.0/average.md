@@ -1,7 +1,0 @@
----
-title: average
----
-
-## About
-
-average

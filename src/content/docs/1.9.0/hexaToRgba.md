@@ -1,7 +1,0 @@
----
-title: hexaToRgba
----
-
-## About
-
-hexaToRgba

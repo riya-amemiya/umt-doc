@@ -1,7 +1,0 @@
----
-title: linearCongruentialGenerator
----
-
-## About
-
-linearCongruentialGenerator

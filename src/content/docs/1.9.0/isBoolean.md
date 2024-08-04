@@ -1,7 +1,0 @@
----
-title: isBoolean
----
-
-## About
-
-isBoolean

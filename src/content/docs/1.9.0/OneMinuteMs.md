@@ -1,7 +1,0 @@
----
-title: OneMinuteMs
----
-
-## About
-
-OneMinuteMs

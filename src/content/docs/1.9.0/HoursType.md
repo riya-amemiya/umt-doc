@@ -1,7 +1,0 @@
----
-title: HoursType
----
-
-## About
-
-HoursType

@@ -1,7 +1,0 @@
----
-title: HoursAmInt
----
-
-## About
-
-HoursAmInt

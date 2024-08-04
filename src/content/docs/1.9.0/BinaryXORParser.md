@@ -1,7 +1,0 @@
----
-title: BinaryXORParser
----
-
-## About
-
-BinaryXORParser

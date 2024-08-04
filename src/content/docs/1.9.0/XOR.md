@@ -1,7 +1,0 @@
----
-title: XOR
----
-
-## About
-
-XOR

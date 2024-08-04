@@ -1,7 +1,0 @@
----
-title: BinaryANDParser
----
-
-## About
-
-BinaryANDParser

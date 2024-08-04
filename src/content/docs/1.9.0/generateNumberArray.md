@@ -1,7 +1,0 @@
----
-title: generateNumberArray
----
-
-## About
-
-generateNumberArray

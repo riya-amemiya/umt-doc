@@ -1,7 +1,0 @@
----
-title: OneYearMs
----
-
-## About
-
-OneYearMs

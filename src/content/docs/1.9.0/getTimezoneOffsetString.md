@@ -1,7 +1,0 @@
----
-title: getTimezoneOffsetString
----
-
-## About
-
-getTimezoneOffsetString

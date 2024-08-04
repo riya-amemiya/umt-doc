@@ -1,7 +1,0 @@
----
-title: nPr
----
-
-## About
-
-nPr

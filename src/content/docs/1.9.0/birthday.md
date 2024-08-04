@@ -1,7 +1,0 @@
----
-title: birthday
----
-
-## About
-
-birthday

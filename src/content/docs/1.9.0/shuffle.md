@@ -1,7 +1,0 @@
----
-title: shuffle
----
-
-## About
-
-shuffle

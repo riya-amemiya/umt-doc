@@ -1,7 +1,0 @@
----
-title: deviationValue
----
-
-## About
-
-deviationValue

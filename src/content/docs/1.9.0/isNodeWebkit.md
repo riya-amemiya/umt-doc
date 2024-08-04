@@ -1,7 +1,0 @@
----
-title: isNodeWebkit
----
-
-## About
-
-isNodeWebkit

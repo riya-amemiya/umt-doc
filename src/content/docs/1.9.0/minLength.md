@@ -1,7 +1,0 @@
----
-title: minLength
----
-
-## About
-
-minLength

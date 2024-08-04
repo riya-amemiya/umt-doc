@@ -1,7 +1,0 @@
----
-title: array
----
-
-## About
-
-array

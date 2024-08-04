@@ -1,7 +1,0 @@
----
-title: rgbaToHsla
----
-
-## About
-
-rgbaToHsla

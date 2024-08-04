@@ -1,7 +1,0 @@
----
-title: BinaryOR
----
-
-## About
-
-BinaryOR

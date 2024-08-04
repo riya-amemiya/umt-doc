@@ -1,7 +1,0 @@
----
-title: ChunkArrayType
----
-
-## About
-
-ChunkArrayType

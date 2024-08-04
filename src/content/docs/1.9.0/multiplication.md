@@ -1,7 +1,0 @@
----
-title: multiplication
----
-
-## About
-
-multiplication

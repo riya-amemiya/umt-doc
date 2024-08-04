@@ -1,7 +1,0 @@
----
-title: toCelsius
----
-
-## About
-
-toCelsius

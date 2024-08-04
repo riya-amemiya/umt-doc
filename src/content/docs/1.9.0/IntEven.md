@@ -1,7 +1,0 @@
----
-title: IntEven
----
-
-## About
-
-IntEven

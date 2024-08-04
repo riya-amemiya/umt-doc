@@ -1,7 +1,0 @@
----
-title: getDecimalLength
----
-
-## About
-
-getDecimalLength

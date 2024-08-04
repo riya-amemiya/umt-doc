@@ -1,7 +1,0 @@
----
-title: HexToBinaryParser
----
-
-## About
-
-HexToBinaryParser

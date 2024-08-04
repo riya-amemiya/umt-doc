@@ -1,7 +1,0 @@
----
-title: isDouble
----
-
-## About
-
-isDouble

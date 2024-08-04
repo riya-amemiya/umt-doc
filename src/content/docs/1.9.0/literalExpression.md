@@ -1,7 +1,0 @@
----
-title: literalExpression
----
-
-## About
-
-literalExpression

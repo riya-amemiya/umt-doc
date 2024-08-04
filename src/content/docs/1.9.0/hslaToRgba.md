@@ -1,7 +1,0 @@
----
-title: hslaToRgba
----
-
-## About
-
-hslaToRgba

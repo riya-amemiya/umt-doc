@@ -1,7 +1,0 @@
----
-title: factorial
----
-
-## About
-
-factorial

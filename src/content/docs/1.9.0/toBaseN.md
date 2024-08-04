@@ -1,7 +1,0 @@
----
-title: toBaseN
----
-
-## About
-
-toBaseN

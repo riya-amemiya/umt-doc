@@ -1,7 +1,0 @@
----
-title: UpToNineHundredEighty
----
-
-## About
-
-UpToNineHundredEighty

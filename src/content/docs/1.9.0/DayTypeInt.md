@@ -1,7 +1,0 @@
----
-title: DayTypeInt
----
-
-## About
-
-DayTypeInt

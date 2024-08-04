@@ -1,7 +1,0 @@
----
-title: isNotEmpty
----
-
-## About
-
-isNotEmpty

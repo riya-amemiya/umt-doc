@@ -1,7 +1,0 @@
----
-title: trimEndCharacters
----
-
-## About
-
-trimEndCharacters

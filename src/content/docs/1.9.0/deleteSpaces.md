@@ -1,7 +1,0 @@
----
-title: deleteSpaces
----
-
-## About
-
-deleteSpaces

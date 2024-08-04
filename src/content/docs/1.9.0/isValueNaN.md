@@ -1,7 +1,0 @@
----
-title: isValueNaN
----
-
-## About
-
-isValueNaN

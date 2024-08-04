@@ -1,7 +1,0 @@
----
-title: OneMonthMs
----
-
-## About
-
-OneMonthMs

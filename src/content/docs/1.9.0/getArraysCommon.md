@@ -1,7 +1,0 @@
----
-title: getArraysCommon
----
-
-## About
-
-getArraysCommon

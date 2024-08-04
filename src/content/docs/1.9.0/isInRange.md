@@ -1,7 +1,0 @@
----
-title: isInRange
----
-
-## About
-
-isInRange

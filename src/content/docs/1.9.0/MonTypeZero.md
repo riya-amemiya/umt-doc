@@ -1,7 +1,0 @@
----
-title: MonTypeZero
----
-
-## About
-
-MonTypeZero

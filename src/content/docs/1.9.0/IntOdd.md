@@ -1,7 +1,0 @@
----
-title: IntOdd
----
-
-## About
-
-IntOdd

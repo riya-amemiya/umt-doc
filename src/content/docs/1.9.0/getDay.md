@@ -1,7 +1,0 @@
----
-title: getDay
----
-
-## About
-
-getDay

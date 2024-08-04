@@ -1,7 +1,0 @@
----
-title: MonType
----
-
-## About
-
-MonType

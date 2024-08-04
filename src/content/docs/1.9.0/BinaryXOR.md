@@ -1,7 +1,0 @@
----
-title: BinaryXOR
----
-
-## About
-
-BinaryXOR

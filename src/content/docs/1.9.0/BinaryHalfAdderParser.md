@@ -1,7 +1,0 @@
----
-title: BinaryHalfAdderParser
----
-
-## About
-
-BinaryHalfAdderParser

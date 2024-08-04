@@ -1,7 +1,0 @@
----
-title: numberString
----
-
-## About
-
-numberString

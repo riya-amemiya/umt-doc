@@ -1,7 +1,0 @@
----
-title: UpToFiveHundredThirty
----
-
-## About
-
-UpToFiveHundredThirty

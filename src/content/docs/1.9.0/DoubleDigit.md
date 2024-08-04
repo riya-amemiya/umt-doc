@@ -1,7 +1,0 @@
----
-title: DoubleDigit
----
-
-## About
-
-DoubleDigit

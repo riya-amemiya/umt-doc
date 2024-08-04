@@ -1,7 +1,0 @@
----
-title: timSort
----
-
-## About
-
-timSort

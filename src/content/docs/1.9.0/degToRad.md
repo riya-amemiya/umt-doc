@@ -1,7 +1,0 @@
----
-title: degToRad
----
-
-## About
-
-degToRad

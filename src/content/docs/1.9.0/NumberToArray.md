@@ -1,7 +1,0 @@
----
-title: NumberToArray
----
-
-## About
-
-NumberToArray

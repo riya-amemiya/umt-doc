@@ -1,7 +1,0 @@
----
-title: OR
----
-
-## About
-
-OR

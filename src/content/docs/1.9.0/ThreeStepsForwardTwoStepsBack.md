@@ -1,7 +1,0 @@
----
-title: ThreeStepsForwardTwoStepsBack
----
-
-## About
-
-ThreeStepsForwardTwoStepsBack

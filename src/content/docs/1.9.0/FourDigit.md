@@ -1,7 +1,0 @@
----
-title: FourDigit
----
-
-## About
-
-FourDigit

@@ -1,7 +1,0 @@
----
-title: OneHourMs
----
-
-## About
-
-OneHourMs

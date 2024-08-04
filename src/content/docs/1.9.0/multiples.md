@@ -1,7 +1,0 @@
----
-title: multiples
----
-
-## About
-
-multiples

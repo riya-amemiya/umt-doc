@@ -1,7 +1,0 @@
----
-title: SecondsTypeInt
----
-
-## About
-
-SecondsTypeInt

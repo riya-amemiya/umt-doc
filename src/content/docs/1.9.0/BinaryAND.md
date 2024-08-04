@@ -1,7 +1,0 @@
----
-title: BinaryAND
----
-
-## About
-
-BinaryAND

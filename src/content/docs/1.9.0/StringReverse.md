@@ -1,7 +1,0 @@
----
-title: StringReverse
----
-
-## About
-
-StringReverse

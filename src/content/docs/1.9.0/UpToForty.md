@@ -1,7 +1,0 @@
----
-title: UpToForty
----
-
-## About
-
-UpToForty

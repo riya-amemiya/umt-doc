@@ -1,7 +1,0 @@
----
-title: BinaryNOT
----
-
-## About
-
-BinaryNOT

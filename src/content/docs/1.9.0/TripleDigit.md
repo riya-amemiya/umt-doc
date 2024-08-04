@@ -1,7 +1,0 @@
----
-title: TripleDigit
----
-
-## About
-
-TripleDigit

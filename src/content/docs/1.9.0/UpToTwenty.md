@@ -1,7 +1,0 @@
----
-title: UpToTwenty
----
-
-## About
-
-UpToTwenty

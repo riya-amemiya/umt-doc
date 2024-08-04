@@ -1,7 +1,0 @@
----
-title: BinaryAdd
----
-
-## About
-
-BinaryAdd

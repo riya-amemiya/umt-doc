@@ -1,7 +1,0 @@
----
-title: random
----
-
-## About
-
-random

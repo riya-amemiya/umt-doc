@@ -1,7 +1,0 @@
----
-title: calculatorInitialization
----
-
-## About
-
-calculatorInitialization

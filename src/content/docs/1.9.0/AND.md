@@ -1,7 +1,0 @@
----
-title: AND
----
-
-## About
-
-AND

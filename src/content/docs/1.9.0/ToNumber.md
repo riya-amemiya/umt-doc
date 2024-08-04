@@ -1,7 +1,0 @@
----
-title: ToNumber
----
-
-## About
-
-ToNumber

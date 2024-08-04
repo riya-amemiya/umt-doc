@@ -1,7 +1,0 @@
----
-title: FirstNChars
----
-
-## About
-
-FirstNChars

@@ -1,7 +1,0 @@
----
-title: randomSelect
----
-
-## About
-
-randomSelect

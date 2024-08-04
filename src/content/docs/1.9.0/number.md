@@ -1,7 +1,0 @@
----
-title: number
----
-
-## About
-
-number

@@ -1,7 +1,0 @@
----
-title: randomString
----
-
-## About
-
-randomString

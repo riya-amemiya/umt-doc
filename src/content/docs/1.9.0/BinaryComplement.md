@@ -1,7 +1,0 @@
----
-title: BinaryComplement
----
-
-## About
-
-BinaryComplement

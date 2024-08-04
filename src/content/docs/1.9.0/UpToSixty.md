@@ -1,7 +1,0 @@
----
-title: UpToSixty
----
-
-## About
-
-UpToSixty

@@ -1,7 +1,0 @@
----
-title: drop
----
-
-## About
-
-drop

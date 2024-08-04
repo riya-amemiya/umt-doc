@@ -1,7 +1,0 @@
----
-title: string
----
-
-## About
-
-string
