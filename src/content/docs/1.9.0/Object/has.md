@@ -4,4 +4,4 @@ title: has
 
 ## About
 
-has src/Object/has.ts
+オブジェクトが指定されたパスを持っているかどうかを判定する

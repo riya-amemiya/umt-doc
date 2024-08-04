@@ -4,4 +4,4 @@ title: getArraysDiff
 
 ## About
 
-getArraysDiff src/Array/getArraysDiff.ts
+共通しない要素をとりだす

@@ -4,4 +4,4 @@ title: chunk
 
 ## About
 
-chunk src/Array/chunk.ts
+No summary available.

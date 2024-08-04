@@ -4,4 +4,4 @@ title: cidrToSubnetMask
 
 ## About
 
-cidrToSubnetMask src/IP/cidrToSubnetMask.ts
+CIDRからサブネットマスクを取得します

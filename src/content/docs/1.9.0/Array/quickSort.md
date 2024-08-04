@@ -4,4 +4,5 @@ title: quickSort
 
 ## About
 
-quickSort src/Array/quickSort.ts
+配列を高速にソート
+QuickSortとInsertionSortを組み合わせたアルゴリズムで配列を高速にソートします

@@ -4,4 +4,4 @@ title: OneHourMs
 
 ## About
 
-OneHourMs src/Consts/clock.ts
+1時間のミリ秒数

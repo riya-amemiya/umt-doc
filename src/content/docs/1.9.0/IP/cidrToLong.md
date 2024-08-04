@@ -4,4 +4,4 @@ title: cidrToLong
 
 ## About
 
-cidrToLong src/IP/cidrToLong.ts
+CIDRからサブネットマスクの数値を取得します

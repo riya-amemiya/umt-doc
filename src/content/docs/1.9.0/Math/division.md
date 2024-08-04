@@ -4,4 +4,4 @@ title: division
 
 ## About
 
-division src/Math/division.ts
+誤差のない割り算

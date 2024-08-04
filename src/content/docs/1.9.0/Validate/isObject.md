@@ -4,4 +4,4 @@ title: isObject
 
 ## About
 
-isObject src/Validate/isObject.ts
+オブジェクトかどうかを判定する

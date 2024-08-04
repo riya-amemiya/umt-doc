@@ -4,4 +4,4 @@ title: bitwise
 
 ## About
 
-bitwise src/Math/bitwise.ts
+ビット回転を行う関数

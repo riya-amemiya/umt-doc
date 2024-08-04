@@ -4,4 +4,6 @@ title: Pipeline
 
 ## About
 
-Pipeline src/Tool/createPipeline.ts
+パイプラインを表すインターフェース。
+無引数で呼び出された場合、ストアされている値を返す。
+関数が引数として与えられた場合、その関数を適用して新しいPipeインスタンスを生成する。

@@ -4,4 +4,4 @@ title: isBun
 
 ## About
 
-isBun src/Validate/isBun.ts
+bun環境かどうかを判定します。

@@ -4,4 +4,4 @@ title: HoursAm
 
 ## About
 
-HoursAm src/types/clock/hoursAm.ts
+No summary available.

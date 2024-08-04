@@ -4,4 +4,4 @@ title: object
 
 ## About
 
-object src/Validate/object/core.ts
+No summary available.

@@ -4,4 +4,5 @@ title: formatString
 
 ## About
 
-formatString src/String/formatString.ts
+テンプレート文字列内のプレースホルダーを指定された値で置換します。
+プレースホルダーは {0}、{1}、{2}... の形式で、対応する値が配列で渡されます。

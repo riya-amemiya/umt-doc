@@ -4,4 +4,4 @@ title: calculatorInitialization
 
 ## About
 
-calculatorInitialization src/Math/calculator/calculatorInitialization.ts
+電卓関数を初期化する

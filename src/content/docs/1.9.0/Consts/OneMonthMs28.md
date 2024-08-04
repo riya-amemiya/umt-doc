@@ -4,4 +4,4 @@ title: OneMonthMs28
 
 ## About
 
-OneMonthMs28 src/Consts/clock.ts
+1ヶ月のミリ秒数(28日)

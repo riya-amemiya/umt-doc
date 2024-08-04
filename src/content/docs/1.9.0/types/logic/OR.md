@@ -4,4 +4,4 @@ title: OR
 
 ## About
 
-OR src/types/logic/or.ts
+No summary available.

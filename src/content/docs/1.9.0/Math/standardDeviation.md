@@ -4,4 +4,4 @@ title: standardDeviation
 
 ## About
 
-standardDeviation src/Math/standardDeviation.ts
+標準偏差

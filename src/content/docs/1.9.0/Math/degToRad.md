@@ -4,4 +4,4 @@ title: degToRad
 
 ## About
 
-degToRad src/Math/degToRad.ts
+角度をラジアンに変換

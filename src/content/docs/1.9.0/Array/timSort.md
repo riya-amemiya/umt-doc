@@ -4,4 +4,6 @@ title: timSort
 
 ## About
 
-timSort src/Array/timSort.ts
+TimSortアルゴリズムを実装した関数です。
+挿入ソートとマージソートの良い特性を組み合わせたソートアルゴリズムで、
+安定なソートを提供し、最悪のケースでもO(n log n)の時間複雑度を持ちます。

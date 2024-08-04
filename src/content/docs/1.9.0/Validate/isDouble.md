@@ -4,4 +4,4 @@ title: isDouble
 
 ## About
 
-isDouble src/Validate/isDouble.ts
+小数かどうかを判定する

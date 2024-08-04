@@ -4,4 +4,4 @@ title: fromBase64
 
 ## About
 
-fromBase64 src/String/fromBase64.ts
+Base64を文字列に変換する

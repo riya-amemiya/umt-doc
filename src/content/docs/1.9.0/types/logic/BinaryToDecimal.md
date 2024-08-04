@@ -4,4 +4,4 @@ title: BinaryToDecimal
 
 ## About
 
-BinaryToDecimal src/types/logic/binaryToDecimal.ts
+No summary available.

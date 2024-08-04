@@ -4,4 +4,4 @@ title: newDateInt
 
 ## About
 
-newDateInt src/Date/new.ts
+日付を生成する

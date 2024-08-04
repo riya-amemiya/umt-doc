@@ -4,4 +4,4 @@ title: random
 
 ## About
 
-random src/Math/random.ts
+整数の乱数

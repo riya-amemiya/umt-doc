@@ -4,4 +4,4 @@ title: min
 
 ## About
 
-min src/Math/min.ts
+最小値を返す

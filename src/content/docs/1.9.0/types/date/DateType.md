@@ -4,4 +4,4 @@ title: DateType
 
 ## About
 
-DateType src/types/date/dateType.ts
+No summary available.

@@ -4,4 +4,4 @@ title: insertionSort
 
 ## About
 
-insertionSort src/Array/insertionSort.ts
+挿入ソートを使用して配列をソート

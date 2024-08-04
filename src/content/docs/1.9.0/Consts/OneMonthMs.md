@@ -4,4 +4,4 @@ title: OneMonthMs
 
 ## About
 
-OneMonthMs src/Consts/clock.ts
+1ヶ月のミリ秒数(30日)

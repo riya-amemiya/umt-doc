@@ -4,4 +4,4 @@ title: MinutesTypeInt
 
 ## About
 
-MinutesTypeInt src/types/clock/minutesTypeInt.ts
+No summary available.

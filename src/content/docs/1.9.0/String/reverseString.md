@@ -4,4 +4,4 @@ title: reverseString
 
 ## About
 
-reverseString src/String/reverseString.ts
+文字列を逆順にする

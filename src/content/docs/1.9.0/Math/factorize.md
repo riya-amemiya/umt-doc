@@ -4,4 +4,4 @@ title: factorize
 
 ## About
 
-factorize src/Math/factorize.ts
+因数分解

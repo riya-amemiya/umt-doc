@@ -4,4 +4,4 @@ title: isNodeWebkit
 
 ## About
 
-isNodeWebkit src/Validate/isNodeWebkit.ts
+node-webkit環境かどうかを判定します。

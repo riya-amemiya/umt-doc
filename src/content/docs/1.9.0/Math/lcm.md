@@ -4,4 +4,4 @@ title: lcm
 
 ## About
 
-lcm src/Math/lcm.ts
+最小公倍数

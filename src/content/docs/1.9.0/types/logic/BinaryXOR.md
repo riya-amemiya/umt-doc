@@ -4,4 +4,4 @@ title: BinaryXOR
 
 ## About
 
-BinaryXOR src/types/logic/binaryXOR.ts
+No summary available.

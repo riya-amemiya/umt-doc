@@ -4,4 +4,4 @@ title: quotient
 
 ## About
 
-quotient src/Math/quotient.ts
+あまりの割り算

@@ -4,4 +4,4 @@ title: shuffle2DArray
 
 ## About
 
-shuffle2DArray src/Array/shuffle2DArray.ts
+2次元配列全体の配列をシャッフルします。

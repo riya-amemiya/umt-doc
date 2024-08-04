@@ -4,4 +4,4 @@ title: addition
 
 ## About
 
-addition src/Math/addition.ts
+誤差のない足し算

@@ -4,4 +4,4 @@ title: drop
 
 ## About
 
-drop src/Array/drop.ts
+配列の先頭からn個の要素を除外した新しい配列を返します。

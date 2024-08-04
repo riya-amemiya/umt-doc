@@ -4,4 +4,4 @@ title: BinaryComplement
 
 ## About
 
-BinaryComplement src/types/logic/binaryComplement.ts
+No summary available.

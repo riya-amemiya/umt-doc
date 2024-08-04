@@ -4,4 +4,4 @@ title: IsAny
 
 ## About
 
-IsAny src/types/logic/isAny.ts
+No summary available.

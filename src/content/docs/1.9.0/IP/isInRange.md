@@ -4,4 +4,4 @@ title: isInRange
 
 ## About
 
-isInRange src/IP/isInRange.ts
+指定のIPアドレスが範囲内かどうかを判定します

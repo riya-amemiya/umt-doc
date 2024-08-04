@@ -4,4 +4,4 @@ title: trimStartCharacters
 
 ## About
 
-trimStartCharacters src/String/trimStartCharacters.ts
+指定された文字列の先頭から、指定された文字を取り除きます。

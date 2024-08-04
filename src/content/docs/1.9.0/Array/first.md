@@ -4,4 +4,4 @@ title: first
 
 ## About
 
-first src/Array/first.ts
+配列の先頭の要素を返す

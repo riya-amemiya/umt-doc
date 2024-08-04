@@ -4,4 +4,4 @@ title: createPipeline
 
 ## About
 
-createPipeline src/Tool/createPipeline.ts
+Pipelineインスタンスを生成する関数

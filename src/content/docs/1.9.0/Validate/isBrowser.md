@@ -4,4 +4,4 @@ title: isBrowser
 
 ## About
 
-isBrowser src/Validate/isBrowser.ts
+ブラウザかどうかを判定する

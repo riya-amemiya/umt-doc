@@ -4,4 +4,4 @@ title: isNode
 
 ## About
 
-isNode src/Validate/isNode.ts
+node環境かどうかを判定します。

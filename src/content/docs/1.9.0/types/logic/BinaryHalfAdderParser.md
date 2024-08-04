@@ -4,4 +4,4 @@ title: BinaryHalfAdderParser
 
 ## About
 
-BinaryHalfAdderParser src/types/logic/binaryHalfAdder.ts
+No summary available.

@@ -4,4 +4,4 @@ title: padStart
 
 ## About
 
-padStart src/String/padStart.ts
+指定された長さに達するまで、文字列の先頭に別の文字列を繰り返し追加します。

@@ -4,4 +4,4 @@ title: padEnd
 
 ## About
 
-padEnd src/String/padEnd.ts
+指定された長さに達するまで、文字列の末尾に指定された文字列を追加します。

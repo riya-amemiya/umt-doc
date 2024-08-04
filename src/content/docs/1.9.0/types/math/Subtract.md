@@ -4,4 +4,4 @@ title: Subtract
 
 ## About
 
-Subtract src/types/math/subtract.ts
+No summary available.

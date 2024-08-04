@@ -4,4 +4,4 @@ title: literalExpression
 
 ## About
 
-literalExpression src/Math/calculator/literalExpression.ts
+文字式の方程式を計算する

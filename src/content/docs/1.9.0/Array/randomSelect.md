@@ -4,4 +4,4 @@ title: randomSelect
 
 ## About
 
-randomSelect src/Array/randomSelect.ts
+配列から指定された数の要素をランダムに選択する

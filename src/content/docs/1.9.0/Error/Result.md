@@ -4,4 +4,4 @@ title: Result
 
 ## About
 
-Result src/Error/safeExecute.ts
+No summary available.

@@ -4,4 +4,4 @@ title: toBaseN
 
 ## About
 
-toBaseN src/Math/toBaseN.ts
+n進数に変換

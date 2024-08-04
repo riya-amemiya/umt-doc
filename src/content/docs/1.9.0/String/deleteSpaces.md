@@ -4,4 +4,4 @@ title: deleteSpaces
 
 ## About
 
-deleteSpaces src/String/deleteSpaces.ts
+文字列からスペースを削除する

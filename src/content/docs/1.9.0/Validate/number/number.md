@@ -4,4 +4,4 @@ title: number
 
 ## About
 
-number src/Validate/number/core.ts
+No summary available.

@@ -4,4 +4,4 @@ title: trimEndCharacters
 
 ## About
 
-trimEndCharacters src/String/trimEndCharacters.ts
+指定された文字列の末尾から、指定された文字をすべて取り除きます。

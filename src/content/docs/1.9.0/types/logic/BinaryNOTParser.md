@@ -4,4 +4,4 @@ title: BinaryNOTParser
 
 ## About
 
-BinaryNOTParser src/types/logic/binaryNOT.ts
+No summary available.

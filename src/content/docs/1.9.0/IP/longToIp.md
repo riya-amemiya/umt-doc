@@ -4,4 +4,4 @@ title: longToIp
 
 ## About
 
-longToIp src/IP/longToIp.ts
+32ビットの数値をIPアドレスに変換します

@@ -4,4 +4,4 @@ title: uuid
 
 ## About
 
-uuid src/Validate/string/uuid.ts
+文字列がUUIDかどうかを検証するValidate関数

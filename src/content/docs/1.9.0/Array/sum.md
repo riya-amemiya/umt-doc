@@ -4,4 +4,4 @@ title: sum
 
 ## About
 
-sum src/Array/sum.ts
+配列の合計を返す

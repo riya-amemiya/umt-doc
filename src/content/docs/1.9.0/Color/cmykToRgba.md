@@ -4,4 +4,4 @@ title: cmykToRgba
 
 ## About
 
-cmykToRgba src/Color/cmykToRgba.ts
+cmykをrgbaに変換する

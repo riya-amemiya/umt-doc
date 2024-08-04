@@ -4,4 +4,4 @@ title: nCr
 
 ## About
 
-nCr src/Math/nCr.ts
+n個からr個を選ぶ組み合わせ（nCr）を計算します。

@@ -4,4 +4,4 @@ title: birthdaySimple
 
 ## About
 
-birthdaySimple src/Simple/Date/birthdaySimple.ts
+年齢を取得する

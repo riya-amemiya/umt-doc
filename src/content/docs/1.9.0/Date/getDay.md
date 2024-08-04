@@ -4,4 +4,4 @@ title: getDay
 
 ## About
 
-getDay src/Date/getDay.ts
+数値を曜日に変換する

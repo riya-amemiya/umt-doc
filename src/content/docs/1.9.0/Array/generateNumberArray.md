@@ -4,4 +4,4 @@ title: generateNumberArray
 
 ## About
 
-generateNumberArray src/Array/generateNumberArray.ts
+指定された要素数まで数値型の配列を生成する

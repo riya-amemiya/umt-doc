@@ -4,4 +4,4 @@ title: repeatedTrial
 
 ## About
 
-repeatedTrial src/Math/repeatedTrial.ts
+反復的な思考

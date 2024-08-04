@@ -4,4 +4,4 @@ title: groupBy
 
 ## About
 
-groupBy src/Array/groupBy.ts
+配列の要素をグループ化する

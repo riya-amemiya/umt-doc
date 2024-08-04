@@ -4,4 +4,4 @@ title: nowSimple
 
 ## About
 
-nowSimple src/Simple/Date/nowSimple.ts
+現在時刻を取得する

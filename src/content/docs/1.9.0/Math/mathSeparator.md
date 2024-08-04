@@ -4,4 +4,4 @@ title: mathSeparator
 
 ## About
 
-mathSeparator src/Math/mathSeparator.ts
+最大値の位で区切ります。

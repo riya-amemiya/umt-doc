@@ -4,4 +4,4 @@ title: deviationValue
 
 ## About
 
-deviationValue src/Math/deviationValue.ts
+偏差値を計算する

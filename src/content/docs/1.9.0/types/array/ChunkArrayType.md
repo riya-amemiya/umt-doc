@@ -4,4 +4,4 @@ title: ChunkArrayType
 
 ## About
 
-ChunkArrayType src/types/array/chunk.ts
+No summary available.

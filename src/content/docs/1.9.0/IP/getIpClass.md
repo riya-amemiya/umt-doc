@@ -4,4 +4,4 @@ title: getIpClass
 
 ## About
 
-getIpClass src/IP/getIpClass.ts
+IPクラスを取得します

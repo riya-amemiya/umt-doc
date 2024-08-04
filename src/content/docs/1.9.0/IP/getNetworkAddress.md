@@ -4,4 +4,4 @@ title: getNetworkAddress
 
 ## About
 
-getNetworkAddress src/IP/getNetworkAddress.ts
+ネットワークアドレスを取得します

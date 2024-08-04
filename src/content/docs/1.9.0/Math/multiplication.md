@@ -4,4 +4,4 @@ title: multiplication
 
 ## About
 
-multiplication src/Math/multiplication.ts
+誤差のない掛け算を任意長の引数で行う

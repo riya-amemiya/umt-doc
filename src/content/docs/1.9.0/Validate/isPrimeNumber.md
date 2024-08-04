@@ -4,4 +4,4 @@ title: isPrimeNumber
 
 ## About
 
-isPrimeNumber src/Validate/isPrimeNumber.ts
+素数判定

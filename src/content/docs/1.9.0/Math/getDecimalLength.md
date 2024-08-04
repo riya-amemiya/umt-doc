@@ -4,4 +4,4 @@ title: getDecimalLength
 
 ## About
 
-getDecimalLength src/Math/getDecimalLength.ts
+小数点以下の桁数

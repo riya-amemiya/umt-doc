@@ -4,4 +4,4 @@ title: deviationValueSimple
 
 ## About
 
-deviationValueSimple src/Simple/Math/deviationValueSimple.ts
+偏差値を返す

@@ -4,4 +4,4 @@ title: median
 
 ## About
 
-median src/Math/median.ts
+数値配列の中央値を計算する

@@ -4,4 +4,4 @@ title: isPerfectSquare
 
 ## About
 
-isPerfectSquare src/Validate/isPerfectSquare.ts
+与えられた数値が完全平方数かどうかを判定する

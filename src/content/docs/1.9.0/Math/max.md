@@ -4,4 +4,4 @@ title: max
 
 ## About
 
-max src/Math/max.ts
+最大値を返す

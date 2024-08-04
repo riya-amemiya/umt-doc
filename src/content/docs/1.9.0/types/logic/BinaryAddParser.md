@@ -4,4 +4,4 @@ title: BinaryAddParser
 
 ## About
 
-BinaryAddParser src/types/logic/binaryAdd.ts
+No summary available.

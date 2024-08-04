@@ -4,4 +4,4 @@ title: rgbaToHexA
 
 ## About
 
-rgbaToHexA src/Color/rgbaToHexA.ts
+rgbaを16進数に変換

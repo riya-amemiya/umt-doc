@@ -4,4 +4,4 @@ title: mathConverter
 
 ## About
 
-mathConverter src/Math/mathConverter.ts
+nの2乗を展開します

@@ -4,4 +4,4 @@ title: randomString
 
 ## About
 
-randomString src/String/randomString.ts
+ランダムな文字列を生成します。

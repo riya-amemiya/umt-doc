@@ -4,4 +4,4 @@ title: isArray
 
 ## About
 
-isArray src/Validate/isArray.ts
+配列かどうかを判定する

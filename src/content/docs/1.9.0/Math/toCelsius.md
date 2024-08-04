@@ -4,4 +4,4 @@ title: toCelsius
 
 ## About
 
-toCelsius src/Math/toCelsius.ts
+ケルビンを摂氏に変換する

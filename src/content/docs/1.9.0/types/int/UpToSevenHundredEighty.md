@@ -4,4 +4,4 @@ title: UpToSevenHundredEighty
 
 ## About
 
-UpToSevenHundredEighty src/types/int/upToSevenHundredEighty.ts
+No summary available.

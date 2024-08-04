@@ -4,4 +4,4 @@ title: shuffle
 
 ## About
 
-shuffle src/Array/shuffle.ts
+配列の要素をランダムにシャッフルする

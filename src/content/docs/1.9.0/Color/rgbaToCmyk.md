@@ -4,4 +4,4 @@ title: rgbaToCmyk
 
 ## About
 
-rgbaToCmyk src/Color/rgbaToCmyk.ts
+rgbaをcmykに変換する

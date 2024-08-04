@@ -4,4 +4,4 @@ title: average
 
 ## About
 
-average src/Math/average.ts
+平均値

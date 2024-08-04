@@ -4,4 +4,4 @@ title: linearCongruentialGenerator
 
 ## About
 
-linearCongruentialGenerator src/Math/linearCongruentialGenerator.ts
+線形合同法による乱数生成器

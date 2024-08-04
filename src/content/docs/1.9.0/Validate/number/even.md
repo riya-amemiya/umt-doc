@@ -4,4 +4,4 @@ title: even
 
 ## About
 
-even src/Validate/number/even.ts
+No summary available.

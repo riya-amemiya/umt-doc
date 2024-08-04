@@ -4,4 +4,4 @@ title: isValueNaN
 
 ## About
 
-isValueNaN src/Validate/isValueNaN.ts
+値がNaNかどうかを判定します。

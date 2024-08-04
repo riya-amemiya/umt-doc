@@ -4,4 +4,4 @@ title: hexaToRgba
 
 ## About
 
-hexaToRgba src/Color/hexaToRgba.ts
+hexaをrgbaに変換する

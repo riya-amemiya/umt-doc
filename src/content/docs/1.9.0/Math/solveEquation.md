@@ -4,4 +4,4 @@ title: solveEquation
 
 ## About
 
-solveEquation src/Math/solveEquation.ts
+連立一次方程式を解く

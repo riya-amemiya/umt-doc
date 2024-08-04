@@ -4,4 +4,4 @@ title: IntWithoutZero
 
 ## About
 
-IntWithoutZero src/types/int/intWithoutZero.ts
+No summary available.

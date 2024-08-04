@@ -4,4 +4,4 @@ title: OneWeekMs
 
 ## About
 
-OneWeekMs src/Consts/clock.ts
+1週間のミリ秒数

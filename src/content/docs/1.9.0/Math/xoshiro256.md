@@ -4,4 +4,4 @@ title: xoshiro256
 
 ## About
 
-xoshiro256 src/Math/xoshiro256.ts
+Xoshiro256** 乱数生成器

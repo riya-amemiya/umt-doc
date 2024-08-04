@@ -4,4 +4,4 @@ title: isLeapYear
 
 ## About
 
-isLeapYear src/Date/isLeapYear.ts
+与えられた年が閏年かどうかを判定する

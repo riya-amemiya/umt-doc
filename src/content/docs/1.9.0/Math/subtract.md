@@ -4,4 +4,4 @@ title: subtract
 
 ## About
 
-subtract src/Math/subtract.ts
+誤差のない引き算を任意長の引数で行う

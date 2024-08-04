@@ -4,4 +4,4 @@ title: NOT
 
 ## About
 
-NOT src/types/logic/not.ts
+No summary available.

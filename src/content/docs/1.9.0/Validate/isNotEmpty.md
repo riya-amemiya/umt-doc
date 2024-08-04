@@ -4,4 +4,4 @@ title: isNotEmpty
 
 ## About
 
-isNotEmpty src/Validate/isNotEmpty.ts
+objectが空かどうかを確認する

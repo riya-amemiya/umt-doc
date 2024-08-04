@@ -4,4 +4,4 @@ title: OneYearMs366
 
 ## About
 
-OneYearMs366 src/Consts/clock.ts
+1年のミリ秒数(366日)

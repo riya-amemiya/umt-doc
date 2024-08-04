@@ -4,4 +4,4 @@ title: OneMonthMs31
 
 ## About
 
-OneMonthMs31 src/Consts/clock.ts
+1ヶ月のミリ秒数(31日)

@@ -4,4 +4,4 @@ title: isNumber
 
 ## About
 
-isNumber src/Validate/isNumber.ts
+数字を表すかどうかを判定する

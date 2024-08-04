@@ -4,4 +4,4 @@ title: gcd
 
 ## About
 
-gcd src/Math/gcd.ts
+最大公約数

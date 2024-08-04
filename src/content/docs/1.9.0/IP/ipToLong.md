@@ -4,4 +4,4 @@ title: ipToLong
 
 ## About
 
-ipToLong src/IP/ipToLong.ts
+IPアドレスを32ビットの数値に変換します

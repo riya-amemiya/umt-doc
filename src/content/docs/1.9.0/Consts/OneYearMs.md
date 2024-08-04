@@ -4,4 +4,4 @@ title: OneYearMs
 
 ## About
 
-OneYearMs src/Consts/clock.ts
+1年のミリ秒数(365日)

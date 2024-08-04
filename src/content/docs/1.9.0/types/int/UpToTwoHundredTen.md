@@ -4,4 +4,4 @@ title: UpToTwoHundredTen
 
 ## About
 
-UpToTwoHundredTen src/types/int/upToTwoHundredTen.ts
+No summary available.

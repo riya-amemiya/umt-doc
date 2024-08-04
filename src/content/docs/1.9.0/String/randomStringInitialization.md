@@ -4,4 +4,4 @@ title: randomStringInitialization
 
 ## About
 
-randomStringInitialization src/String/randomStringInitialization.ts
+ランダムな文字列を生成する関数を初期化します。

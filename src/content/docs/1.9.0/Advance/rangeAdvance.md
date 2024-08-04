@@ -4,4 +4,4 @@ title: rangeAdvance
 
 ## About
 
-rangeAdvance src/Advance/rangeAdvance.ts
+条件式を満たす数値の配列を返す

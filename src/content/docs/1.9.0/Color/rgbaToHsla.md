@@ -4,4 +4,4 @@ title: rgbaToHsla
 
 ## About
 
-rgbaToHsla src/Color/rgbaToHsla.ts
+rgbaをhslaに変換する

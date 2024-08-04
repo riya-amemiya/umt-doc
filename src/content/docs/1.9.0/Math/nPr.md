@@ -4,4 +4,4 @@ title: nPr
 
 ## About
 
-nPr src/Math/nPr.ts
+n個からr個を選ぶ順列（nPr）を計算します。

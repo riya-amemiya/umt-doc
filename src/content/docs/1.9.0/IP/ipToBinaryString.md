@@ -4,4 +4,4 @@ title: ipToBinaryString
 
 ## About
 
-ipToBinaryString src/IP/ipToBinaryString.ts
+IPアドレスをバイナリ文字列に変換します

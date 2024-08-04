@@ -4,4 +4,4 @@ title: format
 
 ## About
 
-format src/Date/format.ts
+日時を指定されたフォーマットに従って文字列に変換します。

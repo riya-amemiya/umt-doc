@@ -4,4 +4,4 @@ title: getTimezoneOffsetString
 
 ## About
 
-getTimezoneOffsetString src/Date/getTimezoneOffsetString.ts
+タイムゾーンのオフセット文字列を取得します。

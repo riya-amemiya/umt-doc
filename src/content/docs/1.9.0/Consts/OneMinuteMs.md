@@ -4,4 +4,4 @@ title: OneMinuteMs
 
 ## About
 
-OneMinuteMs src/Consts/clock.ts
+1分のミリ秒数

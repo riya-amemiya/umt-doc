@@ -4,4 +4,4 @@ title: primeFactorization
 
 ## About
 
-primeFactorization src/Math/primeFactorization.ts
+素因数分解

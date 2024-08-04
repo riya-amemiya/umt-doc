@@ -4,4 +4,4 @@ title: Capitalize
 
 ## About
 
-Capitalize src/types/logic/capitalize.ts
+No summary available.

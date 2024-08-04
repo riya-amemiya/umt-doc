@@ -4,4 +4,5 @@ title: zipLongest
 
 ## About
 
-zipLongest src/Array/zipLongest.ts
+異なる長さの配列を組み合わせて、最も長い配列の長さに合わせた配列を生成します。
+短い配列の不足分は `undefined` で埋められます。

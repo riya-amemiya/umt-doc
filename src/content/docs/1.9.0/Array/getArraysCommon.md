@@ -4,4 +4,4 @@ title: getArraysCommon
 
 ## About
 
-getArraysCommon src/Array/getArraysCommon.ts
+共通の要素をとりだす

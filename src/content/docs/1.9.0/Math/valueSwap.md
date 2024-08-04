@@ -4,4 +4,4 @@ title: valueSwap
 
 ## About
 
-valueSwap src/Math/valueSwap.ts
+x < yになるように入れ替える

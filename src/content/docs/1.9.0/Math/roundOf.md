@@ -4,4 +4,4 @@ title: roundOf
 
 ## About
 
-roundOf src/Math/roundOf.ts
+四捨五入

@@ -4,4 +4,4 @@ title: toKelvin
 
 ## About
 
-toKelvin src/Math/toKelvin.ts
+摂氏をケルビンに変換します。
