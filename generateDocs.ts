@@ -11,16 +11,13 @@ async function readJsonFilesRecursively(directory: string): Promise<void> {
     const stat = fs.statSync(fullPath);
 
     if (stat.isDirectory()) {
-      // サブディレクトリの場合、再帰的に処理
       await readJsonFilesRecursively(fullPath);
     } else if (path.extname(file).toLowerCase() === ".json") {
-      // JSONファイルの場合、読み込んで処理
       try {
         const version = fullPath.split("/")[2];
         const jsonContent = read(fullPath);
         const jsonData = JSON.parse(jsonContent) as OutputType;
 
-        // 各子要素に対してMarkdownファイルを生成
         for (const child of jsonData.children) {
           const name = child.name;
           const id = child.id;
@@ -28,6 +25,11 @@ async function readJsonFilesRecursively(directory: string): Promise<void> {
             jsonData.symbolIdMap[
               id as unknown as keyof typeof jsonData.symbolIdMap
             ].sourceFileName;
+
+          // Extract category from sourceFileName
+          const categoryMatch = sourceFileName.match(/src\/(.+)\/[^/]+\.ts$/);
+          const category = categoryMatch ? categoryMatch[1] : "";
+
           const markdownContent = `---
 title: ${name}
 ---
@@ -42,13 +44,11 @@ ${name} ${sourceFileName}
             "content",
             "docs",
             version,
+            category,
             `${name}.md`,
           );
 
-          // ディレクトリが存在することを確認
           fs.mkdirSync(path.dirname(markdownPath), { recursive: true });
-
-          // Markdownファイルを書き込み
           fs.writeFileSync(markdownPath, markdownContent);
 
           console.log(`Created Markdown file: ${markdownPath}`);
@@ -60,7 +60,6 @@ ${name} ${sourceFileName}
   }
 }
 
-// 使用例
 async function main() {
   const targetDirectory = "./src/data";
   await readJsonFilesRecursively(targetDirectory);
