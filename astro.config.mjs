@@ -10,7 +10,7 @@ import starlightBlog from "starlight-blog";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://umt-main.oshaburikitchin.com/",
+  site: "https://umt-doc.oshaburikitchin.com/",
   compressHTML: true,
   trailingSlash: "never",
   markdown: {
