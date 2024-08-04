@@ -23,13 +23,18 @@ async function readJsonFilesRecursively(directory: string): Promise<void> {
         // 各子要素に対してMarkdownファイルを生成
         for (const child of jsonData.children) {
           const name = child.name;
+          const id = child.id;
+          const sourceFileName =
+            jsonData.symbolIdMap[
+              id as unknown as keyof typeof jsonData.symbolIdMap
+            ].sourceFileName;
           const markdownContent = `---
 title: ${name}
 ---
 
 ## About
 
-${name}
+${name} ${sourceFileName}
 `;
 
           const markdownPath = path.join(
