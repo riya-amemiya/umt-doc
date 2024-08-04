@@ -1,0 +1,7 @@
+---
+title: MonTypeNoZero
+---
+
+## About
+
+MonTypeNoZero

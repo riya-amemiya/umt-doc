@@ -1,0 +1,7 @@
+---
+title: deleteSpaces
+---
+
+## About
+
+deleteSpaces

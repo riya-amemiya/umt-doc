@@ -1,0 +1,7 @@
+---
+title: BinaryToHex
+---
+
+## About
+
+BinaryToHex

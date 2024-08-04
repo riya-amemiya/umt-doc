@@ -1,0 +1,7 @@
+---
+title: linearCongruentialGenerator
+---
+
+## About
+
+linearCongruentialGenerator

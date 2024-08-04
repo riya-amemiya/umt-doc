@@ -1,0 +1,7 @@
+---
+title: isBoolean
+---
+
+## About
+
+isBoolean

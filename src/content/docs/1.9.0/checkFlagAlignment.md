@@ -1,0 +1,7 @@
+---
+title: checkFlagAlignment
+---
+
+## About
+
+checkFlagAlignment

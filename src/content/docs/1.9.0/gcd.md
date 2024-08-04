@@ -1,0 +1,7 @@
+---
+title: gcd
+---
+
+## About
+
+gcd

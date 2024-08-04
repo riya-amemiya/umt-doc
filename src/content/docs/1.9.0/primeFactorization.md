@@ -1,0 +1,7 @@
+---
+title: primeFactorization
+---
+
+## About
+
+primeFactorization

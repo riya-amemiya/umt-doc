@@ -1,0 +1,7 @@
+---
+title: getIpClass
+---
+
+## About
+
+getIpClass

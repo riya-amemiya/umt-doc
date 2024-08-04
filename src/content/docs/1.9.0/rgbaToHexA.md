@@ -1,0 +1,7 @@
+---
+title: rgbaToHexA
+---
+
+## About
+
+rgbaToHexA

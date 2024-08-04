@@ -1,0 +1,7 @@
+---
+title: solveEquation
+---
+
+## About
+
+solveEquation

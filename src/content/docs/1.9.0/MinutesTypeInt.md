@@ -1,0 +1,7 @@
+---
+title: MinutesTypeInt
+---
+
+## About
+
+MinutesTypeInt

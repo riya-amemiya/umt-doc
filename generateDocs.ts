@@ -19,16 +19,37 @@ async function readJsonFilesRecursively(directory: string): Promise<void> {
         const version = fullPath.split("/")[2];
         const jsonContent = read(fullPath);
         const jsonData = JSON.parse(jsonContent) as OutputType;
-        console.log(`Version: ${version}`);
-        console.log(`File: ${fullPath}`);
-        console.log(
-          "Content:",
-          jsonData.children.map((child) => child.name),
-        );
 
-        // ここでjsonDataを使って必要な処理を行う
+        // 各子要素に対してMarkdownファイルを生成
+        for (const child of jsonData.children) {
+          const name = child.name;
+          const markdownContent = `---
+title: ${name}
+---
+
+## About
+
+${name}
+`;
+
+          const markdownPath = path.join(
+            "src",
+            "content",
+            "docs",
+            version,
+            `${name}.md`,
+          );
+
+          // ディレクトリが存在することを確認
+          fs.mkdirSync(path.dirname(markdownPath), { recursive: true });
+
+          // Markdownファイルを書き込み
+          fs.writeFileSync(markdownPath, markdownContent);
+
+          console.log(`Created Markdown file: ${markdownPath}`);
+        }
       } catch (error) {
-        console.error(`Error reading file ${fullPath}:`, error);
+        console.error(`Error processing file ${fullPath}:`, error);
       }
     }
   }

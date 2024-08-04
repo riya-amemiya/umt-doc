@@ -1,0 +1,7 @@
+---
+title: boolean
+---
+
+## About
+
+boolean

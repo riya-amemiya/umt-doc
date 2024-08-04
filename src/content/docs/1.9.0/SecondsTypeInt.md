@@ -1,0 +1,7 @@
+---
+title: SecondsTypeInt
+---
+
+## About
+
+SecondsTypeInt

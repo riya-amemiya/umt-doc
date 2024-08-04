@@ -1,0 +1,7 @@
+---
+title: XOR
+---
+
+## About
+
+XOR

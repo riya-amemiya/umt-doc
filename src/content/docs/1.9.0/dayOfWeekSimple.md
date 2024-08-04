@@ -1,0 +1,7 @@
+---
+title: dayOfWeekSimple
+---
+
+## About
+
+dayOfWeekSimple

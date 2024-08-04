@@ -1,0 +1,7 @@
+---
+title: BinaryToDecimal
+---
+
+## About
+
+BinaryToDecimal

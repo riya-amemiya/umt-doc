@@ -1,0 +1,7 @@
+---
+title: DayTypeInt
+---
+
+## About
+
+DayTypeInt

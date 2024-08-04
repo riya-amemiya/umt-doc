@@ -1,0 +1,7 @@
+---
+title: padStart
+---
+
+## About
+
+padStart

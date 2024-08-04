@@ -1,0 +1,7 @@
+---
+title: nCr
+---
+
+## About
+
+nCr

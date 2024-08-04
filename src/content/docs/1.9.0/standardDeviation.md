@@ -1,0 +1,7 @@
+---
+title: standardDeviation
+---
+
+## About
+
+standardDeviation

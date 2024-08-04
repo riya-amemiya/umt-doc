@@ -1,0 +1,7 @@
+---
+title: isPerfectSquare
+---
+
+## About
+
+isPerfectSquare

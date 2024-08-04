@@ -1,0 +1,7 @@
+---
+title: MillisecondsTypeInt
+---
+
+## About
+
+MillisecondsTypeInt

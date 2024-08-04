@@ -1,0 +1,7 @@
+---
+title: BinaryToDecimalParser
+---
+
+## About
+
+BinaryToDecimalParser

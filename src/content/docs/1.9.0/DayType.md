@@ -1,0 +1,7 @@
+---
+title: DayType
+---
+
+## About
+
+DayType

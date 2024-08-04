@@ -1,0 +1,7 @@
+---
+title: quickSortSimple
+---
+
+## About
+
+quickSortSimple

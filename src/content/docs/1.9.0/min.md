@@ -1,0 +1,7 @@
+---
+title: min
+---
+
+## About
+
+min

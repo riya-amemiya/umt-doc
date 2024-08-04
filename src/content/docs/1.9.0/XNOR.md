@@ -1,0 +1,7 @@
+---
+title: XNOR
+---
+
+## About
+
+XNOR

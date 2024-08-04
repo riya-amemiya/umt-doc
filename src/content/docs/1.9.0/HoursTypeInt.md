@@ -1,0 +1,7 @@
+---
+title: HoursTypeInt
+---
+
+## About
+
+HoursTypeInt

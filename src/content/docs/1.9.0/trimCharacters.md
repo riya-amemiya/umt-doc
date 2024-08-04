@@ -1,0 +1,7 @@
+---
+title: trimCharacters
+---
+
+## About
+
+trimCharacters

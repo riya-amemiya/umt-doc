@@ -1,0 +1,7 @@
+---
+title: safeExecute
+---
+
+## About
+
+safeExecute

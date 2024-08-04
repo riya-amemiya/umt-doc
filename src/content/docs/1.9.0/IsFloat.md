@@ -1,0 +1,7 @@
+---
+title: IsFloat
+---
+
+## About
+
+IsFloat

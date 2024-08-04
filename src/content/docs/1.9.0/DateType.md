@@ -1,0 +1,7 @@
+---
+title: DateType
+---
+
+## About
+
+DateType

@@ -1,0 +1,7 @@
+---
+title: SecondsType
+---
+
+## About
+
+SecondsType

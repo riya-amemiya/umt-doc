@@ -1,0 +1,7 @@
+---
+title: getDecimalLength
+---
+
+## About
+
+getDecimalLength

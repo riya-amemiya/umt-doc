@@ -1,0 +1,7 @@
+---
+title: getDay
+---
+
+## About
+
+getDay

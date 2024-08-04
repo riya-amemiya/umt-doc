@@ -1,0 +1,7 @@
+---
+title: isPrimeNumber
+---
+
+## About
+
+isPrimeNumber

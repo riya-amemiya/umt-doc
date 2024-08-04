@@ -1,0 +1,7 @@
+---
+title: isArray
+---
+
+## About
+
+isArray
