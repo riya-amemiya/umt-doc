@@ -25,6 +25,7 @@ async function readJsonFilesRecursively(directory: string): Promise<void> {
             jsonData.symbolIdMap[
               id as unknown as keyof typeof jsonData.symbolIdMap
             ].sourceFileName;
+          const summary = child.comment?.summary.map((s) => s.text).join(" ");
 
           // Extract category from sourceFileName
           const categoryMatch = sourceFileName.match(/src\/(.+)\/[^/]+\.ts$/);
@@ -36,7 +37,7 @@ title: ${name}
 
 ## About
 
-${name} ${sourceFileName}
+${summary || "No summary available."}
 `;
 
           const markdownPath = path.join(
