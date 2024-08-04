@@ -13,6 +13,9 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "UMT Documentation",
+      social: {
+        github: "https://github.com/riya-amemiya/umt-doc",
+      },
     }),
     mdx(),
     tailwind(),
